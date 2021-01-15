@@ -2,7 +2,7 @@
 
 <!--
 **PrisilaMalar/PrisilaMalar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+i'm trying to solve my school project by saving my work in this repository.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
